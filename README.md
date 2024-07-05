@@ -1,1 +1,1 @@
-SEO(검색 엔진 최적화, Search Engine Optimization) 공부를 위한 저장소 
+SEO(검색 엔진 최적화 / Search Engine Optimization) 개인 공부를 위한 저장소 입니다.
